@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class TimesConfig(AppConfig):
+class SimpleHtmlWithmodelsConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'times'
+    name = 'simple_html_withModels'
