@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'simple_html_withModels',
     'bootstrap_html',
     'bootstrap_manual_website',
+    'crypto_website',
 ]
 
 MIDDLEWARE = [

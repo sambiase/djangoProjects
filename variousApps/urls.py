@@ -23,6 +23,7 @@ urlpatterns = [
     path('', include('simple_html_withModels.urls')),
     path('', include('simple_html_withModels.urls')),
     path('', include('bootstrap_manual_website.urls')),
+    path('', include('crypto_website.urls')),
 
 
 ]
