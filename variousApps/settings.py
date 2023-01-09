@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'bootstrap_html',
     'bootstrap_manual_website',
     'crypto_website',
+    'mainpage'
 ]
 
 MIDDLEWARE = [

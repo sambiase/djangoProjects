@@ -3,5 +3,5 @@ from .views import bootstrap_manual_site
 
 
 urlpatterns = [
-    path('manual_bootstrap/', bootstrap_manual_site)
+    path('bootstrap_manual_page/', bootstrap_manual_site)
 ]
