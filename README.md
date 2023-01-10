@@ -44,25 +44,24 @@
 * [Install Poetry](https://python-poetry.org/docs/#installation) as Virtual Env
   * create a virtual env with Poetry: `poetry init`
   * access the newly created virtual env: `poetry shell`
-* Install Selenium: `poetry add selenium`
-* Download and install the appropriate [ChromeDriver](https://chromedriver.chromium.org/downloads)
-  * **note**: for Linux the driver shall be placed at: `/usr/local/bin/`
-* Install PyTest: `poetry add pytest` 
-* Run the automated script: `python download_dataset.py`
+* Install Django: `poetry add django`
  
 
 ## :computer: Code Examples
 
-* Run the automated script
-  * `python download_dataset.py`
+* Makemigrations: 
+    * `python manage.py makemigrations`
 
+* Migrate: 
+    * `python manage.py migrate`
 
-* Run the test script
-  * `pytest test_elements.py` 
+* Run Django's server: 
+    * `python manage.py runserver`
+
 
 ## :clipboard: ToDo
 
-* ToDo: add new tests and automate different elements
+* ToDo: add new apps and templates
 
 
 ## :file_folder: License
