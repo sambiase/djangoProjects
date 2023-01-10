@@ -1,6 +1,6 @@
-# :zap: Web Automation with Selenium and PyTest
+# :zap: Django Apps
 
-* Web Automation Project using **Selenium** and **Pytest**
+* **Django Apps**
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/sambiase/djangoProjects?style=plastic)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/sambiase/djangoProjects?style=plastic)
@@ -11,7 +11,7 @@
 
 ## :page_facing_up: Table of Contents   
 
-* [:zap: Web Automation with Selenium & PyTest](#zap-web-automation-with-selenium-and-pyTest)
+* [:zap: Django Apps](#zap-django-apps)
   * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
